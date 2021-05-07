@@ -1,1 +1,2 @@
 # Income-classification
+This data set is about classification where we ti predict the income <50k or > 50k. There were many redundant feature so i removed most of it. Then there were many missing values with '?' mark so all such values were removed. There were some outliers too which were removed.  After that label encoding was done followed by scaling the features. A pipeline was made for the model. Accuracy achieved was 81.2% with logistic regression. 
